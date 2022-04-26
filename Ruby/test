@@ -1,0 +1,12 @@
+rvm命令, 查看一下目前系统的ruby版本, 本地应该是jruby
+
+gem命令, 查看系统的gem命令
+环境变量介绍
+GEM_HOME, gem被默认安装的目录
+GEM_PATH, 查找需要gem的路径, 可以是多个
+
+
+
+
+https://www.jianshu.com/p/3caf5d8bcc5b
+
